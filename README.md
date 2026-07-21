@@ -1,5 +1,5 @@
 
-# Hey, I'm Adam 👋
+# Hello, I'm Artex 👋
 
 I'm a student from the Czech Republic interested in computer science, Python, web development, and useful software projects.
 
