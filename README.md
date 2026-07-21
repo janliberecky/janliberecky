@@ -1,4 +1,5 @@
-<img src="https://cz.pinterest.com/pin/351632683430146426/" width="100%" alt="banner" >
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/817c3c92-e4c1-4496-a92a-3c92e16312c0" />
+
 
 ## Hi there 👋
 
