@@ -1,4 +1,4 @@
-<img src="https://cz.pinterest.com/pin/351632683430146426/"
+<img src="https://cz.pinterest.com/pin/351632683430146426/" width="100%" alt="banner" >
 
 ## Hi there 👋
 
